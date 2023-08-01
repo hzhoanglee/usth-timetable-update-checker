@@ -1,0 +1,6 @@
+/vendor
+.env
+basic.ics
+composer.lock
+events.json
+.DS_Store
